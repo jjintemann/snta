@@ -1,0 +1,2 @@
+This executable is for Windows 10 (64 bit). When running the program, place the SNTA qualtrics spreadsheet (xlsx file) 
+in the same folder as this program and then run the program.
